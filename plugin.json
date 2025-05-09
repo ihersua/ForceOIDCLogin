@@ -9,5 +9,7 @@
             "email": "tech@ihersua.es",
             "homepage": "https://ihersua.es"
         }
-    ]
+    ],
+    "homepage": "https://github.com/ihersua/ForceOIDCLogin",
+    "keywords": ["OIDC", "SSO", "Login", "Authentication"]
 }
