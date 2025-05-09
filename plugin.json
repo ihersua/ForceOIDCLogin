@@ -11,6 +11,10 @@
             "homepage": "https://ihersua.es"
         }
     ],
+    "require": {
+        "php": ">=8.0.0",
+        "matomo": ">=5.0.0-stable,<6.0.0-b1"
+    },
     "homepage": "https://github.com/ihersua/ForceOIDCLogin",
     "keywords": ["OIDC", "SSO", "Login", "Authentication"]
 }
