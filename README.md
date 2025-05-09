@@ -59,15 +59,3 @@
 ## 📚 License
 
 This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
-
----
-
-## 👨‍💻 Author
-
-**Idafe Hernández Suárez**  
-🌐 [https://ihersua.es](https://ihersua.es)  
-📧 [tech@ihersua.es](mailto:tech@ihersua.es)  
-
----
-
-*Contributions and suggestions are always welcome!*
