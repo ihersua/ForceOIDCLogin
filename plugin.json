@@ -1,0 +1,13 @@
+{
+    "name": "ForceOIDCLogin",
+    "description": "Force exclusive OIDC login by redirecting standard login attempts.",
+    "version": "1.0.0",
+    "theme": false,
+    "authors": [
+        {
+            "name": "Idafe Hernández Suárez",
+            "email": "tech@ihersua.es",
+            "homepage": "https://ihersua.es"
+        }
+    ]
+}
