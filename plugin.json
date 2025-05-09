@@ -1,7 +1,7 @@
 {
     "name": "ForceOIDCLogin",
     "description": "Force exclusive OIDC login by redirecting standard login attempts.",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "theme": false,
     "authors": [
         {
