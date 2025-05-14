@@ -2,8 +2,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-**ForceOIDCLogin** is a Matomo plugin that enforces exclusive authentication through OpenID Connect (OIDC), disabling the standard username and password login. This plugin is ideal for organizations implementing centralized identity management and Single Sign-On (SSO) solutions.
-
 ## Description
 **ForceOIDCLogin** is a Matomo plugin that enforces exclusive authentication through OpenID Connect (OIDC), disabling the standard username and password login. This plugin is ideal for organizations implementing centralized identity management and Single Sign-On (SSO) solutions.
 
