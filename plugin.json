@@ -17,4 +17,9 @@
     },
     "homepage": "https://github.com/ihersua/ForceOIDCLogin",
     "keywords": ["OIDC", "SSO", "Login", "Authentication"]
+    "support": {
+        "email": "tech@ihersua.es",
+        "issues": "https://github.com/ihersua/ForceOIDCLogin/issues",
+        "source": "https://github.com/ihersua/ForceOIDCLogin"
+    }
 }
