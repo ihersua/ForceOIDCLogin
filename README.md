@@ -4,6 +4,13 @@
 
 **ForceOIDCLogin** is a Matomo plugin that enforces exclusive authentication through OpenID Connect (OIDC), disabling the standard username and password login. This plugin is ideal for organizations implementing centralized identity management and Single Sign-On (SSO) solutions.
 
+## Description
+**ForceOIDCLogin** is a Matomo plugin that enforces exclusive authentication through OpenID Connect (OIDC), disabling the standard username and password login. This plugin is ideal for organizations implementing centralized identity management and Single Sign-On (SSO) solutions.
+
+Only tested with https://plugins.matomo.org/RebelOIDC.
+
+Make sure `Disable direct login url` is unchecked.
+
 ---
 
 ## 🚀 Features
