@@ -33,7 +33,7 @@
 
 ## ⚙️ Configuration
 
-- Ensure your OIDC plugin (e.g., **RebelOIDC**) is properly configured.
+- Ensure your OIDC plugin (only tested with **RebelOIDC**) is properly configured.
 - Add the correct **redirect URI** in your Identity Provider (IdP):
 
   ```
