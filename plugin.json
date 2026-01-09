@@ -16,7 +16,7 @@
         "matomo": ">=5.0.0-stable,<6.0.0-b1"
     },
     "homepage": "https://github.com/ihersua/ForceOIDCLogin",
-    "keywords": ["OIDC", "SSO", "Login", "Authentication"]
+    "keywords": ["OIDC", "SSO", "Login", "Authentication"],
     "support": {
         "email": "tech@ihersua.es",
         "issues": "https://github.com/ihersua/ForceOIDCLogin/issues",
